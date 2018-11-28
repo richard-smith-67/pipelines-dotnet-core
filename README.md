@@ -1,3 +1,5 @@
+[![Build Status](https://richard-smith-67.visualstudio.com/Creating%20A%20Pipeline/_apis/build/status/Creating%20A%20Pipeline-CI)](https://richard-smith-67.visualstudio.com/Creating%20A%20Pipeline/_build/latest?definitionId=2)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
